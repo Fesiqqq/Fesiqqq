@@ -65,12 +65,23 @@ Me chamo Fernando Souza Siqueira, tenho 20 anos e sou natural de São Paulo. Con
 />
 <img 
     align="left" 
+    alt="mysql" 
+    title="mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+
+<img 
+    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Laravel" 
