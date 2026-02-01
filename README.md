@@ -63,6 +63,16 @@ Me chamo Fernando Souza Siqueira, tenho 20 anos e sou natural de São Paulo. Con
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="angular"
+    title="angular" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="mysql" 
