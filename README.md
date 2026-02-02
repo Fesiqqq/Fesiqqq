@@ -146,7 +146,7 @@ Me chamo Fernando Souza Siqueira, tenho 20 anos e sou natural de São Paulo. Con
 ### 📊 Estatísticas
 
 <p>
- <!--
+
 <img 
       align="left" 
       alt="GitHub Stats" 
