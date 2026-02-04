@@ -12,12 +12,9 @@ Me chamo Fernando Souza Siqueira, tenho 20 anos e sou natural de São Paulo. Con
             src="https://custom-icon-badges.demolab.com/github/stars/Fesiqqq?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Fesiqqq?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            ![Seguidores](https://img.shields.io/github/followers/Fesiqqq?label=Seguidores&style=flat-square&color=blue)
-    </a>
+ <a href="https://github.com/Fesiqqq?tab=followers">
+  <img src="https://img.shields.io/github/followers/Fesiqqq?label=SEGUIDORES&style=for-the-badge&logo=github&color=blue" alt="Seguidores" />
+</a>
 </p>
 
 ### 🤖 Linguagens e Tecnologias
@@ -141,18 +138,18 @@ Me chamo Fernando Souza Siqueira, tenho 20 anos e sou natural de São Paulo. Con
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Fesiqqq&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800"/>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=Fesiqqq&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800"
+  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fesiqqq&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800"/>
-
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fesiqqq&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800"
+  />
 </p>
-
