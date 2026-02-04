@@ -5,15 +5,8 @@
 Me chamo Fernando Souza Siqueira, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no Senac Santo Amaro, com o curso técnico em informática. Atualmente, estou cursando Sistemas para Internet no Senac Santo Amaro também. Desde que me entendo por gente sou apaixonado por tecnologia. É meu sonho viver disso.
 
 <p align="left">
-    <a href="https://github.com/Fesiqqq?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Fesiqqq?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
- <a href="https://github.com/Fesiqqq?tab=followers">
-<a href="https://github.com/Fesiqqq?tab=followers" style="text-decoration: none;"><img src="https://img.shields.io/github/followers/Fesiqqq?label=SEGUIDORES&style=for-the-badge&logo=github&color=blue&labelColor=blue" alt="Seguidores" /></a>
+  <a href="https://github.com/Fesiqqq?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/Fesiqqq?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" alt="Estrelas"></a>
+  <a href="https://github.com/Fesiqqq?tab=followers"><img src="https://img.shields.io/github/followers/Fesiqqq?label=SEGUIDORES&style=for-the-badge&logo=github&color=blue&labelColor=blue" alt="Seguidores"></a>
 </p>
 
 ### 🤖 Linguagens e Tecnologias
