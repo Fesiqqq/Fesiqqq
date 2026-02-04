@@ -13,8 +13,7 @@ Me chamo Fernando Souza Siqueira, tenho 20 anos e sou natural de São Paulo. Con
         />
     </a>
  <a href="https://github.com/Fesiqqq?tab=followers">
-  <img src="https://img.shields.io/github/followers/Fesiqqq?label=SEGUIDORES&style=for-the-badge&logo=github&color=blue" alt="Seguidores" 
-      />
+  <img src="https://img.shields.io/github/followers/Fesiqqq?label=SEGUIDORES&style=for-the-badge&logo=github&color=blue&labelColor=blue" alt="Seguidores" />
 </a>
 </p>
 
