@@ -132,16 +132,3 @@ Me chamo Fernando Souza Siqueira, tenho 20 anos e sou natural de São Paulo. Con
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img
-    align="left"
-    <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Fesiqqq&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fesiqqq&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
